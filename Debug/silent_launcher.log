@@ -1,2 +1,2 @@
 ﻿  silent_launcher.cpp
-LINK : fatal error LNK1168: cannot open C:\Users\agvrn\source\repos\silent_launcher\Debug\silent_launcher.exe for writing
+  silent_launcher.vcxproj -> W:\Projects\silent_launcher\Debug\silent_launcher.exe
