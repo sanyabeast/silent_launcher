@@ -2,3 +2,5 @@ C:\Users\agvrn\source\repos\silent_launcher\Debug\silent_launcher.exe
 C:\Users\agvrn\source\repos\silent_launcher\Debug\silent_launcher.pdb
 W:\Projects\silent_launcher\Debug\silent_launcher.exe
 W:\Projects\silent_launcher\Debug\silent_launcher.pdb
+W:\Projects\silent_launcher\Debug\silent_launcher.exe.lastcodeanalysissucceeded
+W:\Projects\silent_launcher\Debug\NativeCodeAnalysis.read.1.tlog
